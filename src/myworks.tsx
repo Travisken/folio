@@ -6,7 +6,7 @@ function Items() {
     <>
       <section className="container">
         <div className="item">
-          {items1.map((item, i) => {
+          {items1.map((item) => {
             return (
               <>
 
@@ -33,7 +33,7 @@ function Items() {
 
           })}
 
-          {items2.map((item, i) => {
+          {items2.map((item) => {
             return (
               <>
 
