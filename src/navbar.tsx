@@ -1,8 +1,9 @@
-import { NavLink } from 'react-router-dom'
-import { Link,
-    //  Button, Element, Events,
-     animateScroll as
-      scroll, scrollSpy, scroller 
+// import { NavLink } from 'react-router-dom'
+import { Link
+    //     ,
+    // //  Button, Element, Events,
+    //  animateScroll as
+    //   scroll, scrollSpy, scroller 
     } from 'react-scroll';
     import {useState} from "react";
     import './function';
