@@ -1,9 +1,1 @@
-function Home(){
 
-    return(
-        <>
-      
-
-        </>
-    )
-}
